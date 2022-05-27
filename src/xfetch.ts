@@ -11,7 +11,7 @@ enum XFetchContentType {
 }
 
 /**
- * HttpMethod
+ * XFetchHttpMethod
  */
 enum XFetchHttpMethod {
   GET = 'GET',
