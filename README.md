@@ -1,6 +1,10 @@
 # js-xfetch
 
-> Fetch 被称为下一代 Ajax 技术，浏览器原生支持，采用 Promise 方式来处理数据。是一种简洁明了的 API，比 XMLHttpRequest 更加简单易用。但是使用不太方便，本插件对 Fetch API 进行了了一次封装，解决了 Fetch API 原生的一些痛点，增加了一些常用功能并使用类初始化方便全局管理，具体功能如下。
+> A Fetch request tool wrapper, convenient global management.
+
+> Fetch 被称为下一代 Ajax 技术，浏览器原生支持，采用 Promise 方式来处理数据。是一种简洁明了的 API，比 XMLHttpRequest 更加简单易用。
+
+> 但是使用不太方便，本插件对 Fetch API 进行了了一次封装，解决了 Fetch API 原生的一些痛点，增加了一些常用功能并使用类初始化方便全局管理，具体功能如下。
 
 * 浏览器原生支持
 * 参数优化(参考 Axios)
@@ -90,13 +94,13 @@ $fetch = XFetch.create({
 });
 
 $fetch
-  .get('/test', { test: 1, v: 1 })
+  .get('/test', { test: 1, v: 1 }) // params
   .then((data) => console.log(data))
   .catch((e) => console.log(e));
 
 XFetch.post(
   '/test/post',
-  { test: 'data' },
+  { test: 'data' }, // data
   {
     // headers: Headers,
     // 'Content-Type': 'contentType',

@@ -11,7 +11,7 @@ enum XFetchContentType {
 }
 
 /**
- * XFetchHttpMethod
+ * Http Method
  */
 enum XFetchHttpMethod {
   GET = 'GET',
@@ -104,7 +104,7 @@ const CODE_MSG: { [status: number]: string } = {
 };
 
 /**
- * XFetchClass
+ * XFetchClass 基础类
  */
 export class XFetchClass {
   public timeout: number = 30000; // 超时时间

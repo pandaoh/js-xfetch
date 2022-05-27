@@ -1,7 +1,7 @@
 {
   "name": "js-xfetch",
-  "version": "1.1.1",
-  "description": "A Simple Events Dispatcher Singleton Class.",
+  "version": "1.2.0",
+  "description": "A Fetch request tool wrapper, convenient global management.",
   "main": "lib/index.js",
   "module": "es/index.js",
   "unpkg": "dist/xfetch.js",

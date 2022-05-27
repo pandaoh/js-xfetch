@@ -1,8 +1,8 @@
-[js-xfetch - v1.1.1](../README.md) / XFetchHttpMethod
+[js-xfetch - v1.2.0](../README.md) / XFetchHttpMethod
 
 # Enumeration: XFetchHttpMethod
 
-HttpMethod
+Http Method
 
 ## Table of contents
 

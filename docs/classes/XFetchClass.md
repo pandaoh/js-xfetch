@@ -1,8 +1,8 @@
-[js-xfetch - v1.1.1](../README.md) / XFetchClass
+[js-xfetch - v1.2.0](../README.md) / XFetchClass
 
 # Class: XFetchClass
 
-XFetchClass
+XFetchClass 基础类
 
 ## Table of contents
 
