@@ -1,4 +1,4 @@
-[js-xfetch - v1.2.0](../README.md) / XFetchOptions
+[js-xfetch - v1.2.1](../README.md) / XFetchOptions
 
 # Interface: XFetchOptions
 

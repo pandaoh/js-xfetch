@@ -1,6 +1,6 @@
 {
   "name": "js-xfetch",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "A Fetch request tool wrapper, convenient global management.",
   "main": "lib/index.js",
   "module": "es/index.js",
@@ -28,7 +28,6 @@
     "/xfetch.min.js",
     "/xfetch.d.ts",
     "/xfetch.d.ts.map",
-    "/README.en.md",
     "/README.md"
   ],
   "repository": {

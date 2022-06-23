@@ -26,6 +26,7 @@ npm install js-xfetch -S
 ## Import
 
 ```javascript
+// Es or Node
 const {
   XFetch,
   XFetchContentType,

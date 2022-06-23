@@ -42,7 +42,7 @@ interface XFetchRequestConfig {
 }
 
 /**
- * Header
+ * Header Interface
  */
 interface XFetchHeader {
   Origin?: string;
