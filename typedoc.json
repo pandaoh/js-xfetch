@@ -1,6 +1,6 @@
 {
   "entryPoints": [
-    "src/xfetch.ts"
+    "src/index.ts"
   ],
   "out": "docs",
   "readme": "none",

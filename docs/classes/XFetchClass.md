@@ -1,4 +1,4 @@
-[js-xfetch - v1.2.1](../README.md) / XFetchClass
+[js-xfetch - v1.3.0](../README.md) / XFetchClass
 
 # Class: XFetchClass
 

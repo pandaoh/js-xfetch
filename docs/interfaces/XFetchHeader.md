@@ -1,4 +1,4 @@
-[js-xfetch - v1.2.1](../README.md) / XFetchHeader
+[js-xfetch - v1.3.0](../README.md) / XFetchHeader
 
 # Interface: XFetchHeader
 

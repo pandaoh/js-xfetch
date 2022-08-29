@@ -1,6 +1,6 @@
-js-xfetch - v1.2.1
+js-xfetch - v1.3.0
 
-# js-xfetch - v1.2.1
+# js-xfetch - v1.3.0
 
 ## Table of contents
 

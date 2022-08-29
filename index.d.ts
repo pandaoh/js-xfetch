@@ -119,4 +119,4 @@ export declare class XFetchClass {
 declare const XFetch: XFetchClass;
 export { XFetch, XFetchContentType, XFetchHttpMethod, XFetchHeader, XFetchRequestConfig, XFetchOptions, CODE_MSG };
 export default XFetch;
-//# sourceMappingURL=xfetch.d.ts.map
+//# sourceMappingURL=index.d.ts.map
